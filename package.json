@@ -2,6 +2,8 @@
   "name": "car-project",
   "version": "0.1.0",
   "private": true,
+  "author": "Stéphane Gledic",
+  "description": "Project to upgrade my competences",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
